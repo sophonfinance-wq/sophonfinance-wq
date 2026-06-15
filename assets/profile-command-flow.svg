@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 560" width="1400" height="560" role="img" aria-label="Mobile command to AI finance automation command center flow" text-rendering="geometricPrecision" shape-rendering="geometricPrecision">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#1e64c8"/>
+    </marker>
+    <style>
+      .font { font-family: "Segoe UI", Arial, sans-serif; }
+      .title { font-size: 34px; font-weight: 850; fill: #0b1f3a; }
+      .subtitle { font-size: 18px; fill: #475569; }
+      .node-title { font-size: 22px; font-weight: 850; fill: #0b1f3a; }
+      .node-body { font-size: 15px; fill: #475569; }
+      .node-small { font-size: 13px; fill: #475569; }
+      .chip { font-size: 13px; font-weight: 760; fill: #0b1f3a; }
+      .node { fill: #ffffff; stroke: #d8e1ec; stroke-width: 2; }
+      .accent { stroke: #1e64c8; }
+      .pulse { animation: cardPulse 9s ease-in-out infinite; }
+      .p2 { animation-delay: 1.25s; }
+      .p3 { animation-delay: 2.5s; }
+      .p4 { animation-delay: 3.75s; }
+      .p5 { animation-delay: 5s; }
+      @keyframes cardPulse {
+        0%, 100% { stroke: #d8e1ec; fill: #ffffff; }
+        8% { stroke: #1e64c8; fill: #eef5ff; }
+        18% { stroke: #d8e1ec; fill: #ffffff; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .pulse { animation: none; }
+        .particle { display: none; }
+      }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1398" height="558" rx="18" fill="#f7f9fc" stroke="#d8e1ec" stroke-width="2"/>
+
+  <g class="font">
+    <text x="58" y="66" class="title">24/7 Finance Automation Command Center</text>
+    <text x="58" y="100" class="subtitle">Mobile intake, Mac mini worker nodes, agent orchestration, finance engines, validation, and CEO-ready reporting.</text>
+  </g>
+
+  <g class="font">
+    <rect class="node pulse" x="70" y="154" width="240" height="220" rx="16"/>
+    <text x="104" y="198" class="node-title">Mobile</text>
+    <rect x="104" y="222" width="70" height="112" rx="12" fill="#ffffff" stroke="#1e64c8" stroke-width="2"/>
+    <circle cx="139" cy="350" r="7" fill="#1e64c8"/>
+    <text x="196" y="236" class="node-body">Telegram</text>
+    <text x="196" y="260" class="node-body">Codex / Claude</text>
+    <text x="196" y="284" class="node-body">status updates</text>
+    <text x="196" y="308" class="node-body">human approvals</text>
+
+    <rect class="node pulse p2" x="392" y="154" width="250" height="220" rx="16"/>
+    <text x="430" y="198" class="node-title">Mac mini</text>
+    <text x="430" y="236" class="node-body">24/7 worker nodes</text>
+    <text x="430" y="262" class="node-body">agent workspace online</text>
+    <rect x="432" y="296" width="154" height="16" rx="8" fill="#cbd5e1"/>
+    <rect x="416" y="328" width="186" height="25" rx="7" fill="#ffffff" stroke="#0b1f3a"/>
+
+    <rect class="node pulse p3" x="726" y="128" width="286" height="274" rx="16"/>
+    <text x="766" y="174" class="node-title">Agent layer</text>
+    <rect x="766" y="202" width="202" height="36" rx="18" fill="#eef5ff" stroke="#1e64c8"/>
+    <text x="867" y="225" class="chip" text-anchor="middle">Hermes</text>
+    <rect x="766" y="252" width="202" height="36" rx="18" fill="#eef5ff" stroke="#1e64c8"/>
+    <text x="867" y="275" class="chip" text-anchor="middle">OpenClaw</text>
+    <rect x="766" y="302" width="202" height="36" rx="18" fill="#ffffff" stroke="#475569"/>
+    <text x="867" y="325" class="chip" text-anchor="middle">Codex / Claude</text>
+    <text x="766" y="362" class="node-small">dispatch and handoff packets</text>
+    <text x="766" y="382" class="node-small">background review queues</text>
+
+    <g transform="translate(1090 118)">
+      <rect class="node pulse p4" x="0" y="0" width="250" height="62" rx="14"/>
+      <text x="30" y="38" class="node-body" font-weight="800" fill="#0b1f3a">Close Engine</text>
+      <rect class="node pulse p4" x="0" y="78" width="250" height="62" rx="14"/>
+      <text x="30" y="116" class="node-body" font-weight="800" fill="#0b1f3a">Reconciliation</text>
+      <rect class="node pulse p4" x="0" y="156" width="250" height="62" rx="14"/>
+      <text x="30" y="194" class="node-body" font-weight="800" fill="#0b1f3a">Surplus / ACB</text>
+      <rect class="node pulse p4" x="0" y="234" width="250" height="62" rx="14"/>
+      <text x="30" y="272" class="node-body" font-weight="800" fill="#0b1f3a">1065 + Validation</text>
+    </g>
+
+    <rect class="node pulse p5 accent" x="486" y="444" width="480" height="74" rx="16"/>
+    <text x="522" y="474" class="node-body" font-weight="800" fill="#0b1f3a">CEO-ready package</text>
+    <text x="522" y="499" class="node-body">summary, findings, exceptions, links, and email draft</text>
+  </g>
+
+  <line x1="310" y1="264" x2="382" y2="264" stroke="#1e64c8" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="642" y1="264" x2="716" y2="264" stroke="#1e64c8" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="1012" y1="264" x2="1080" y2="264" stroke="#1e64c8" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M1090 422 C1045 488 1006 484 966 481" fill="none" stroke="#1e64c8" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M486 481 C350 484 228 434 154 376" fill="none" stroke="#1e64c8" stroke-width="3" stroke-dasharray="9 9" marker-end="url(#arrow)"/>
+
+  <circle r="6" fill="#1e64c8" class="particle">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M310 264 L382 264 L716 264 L1080 264"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.86;1" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="5" fill="#2f80ed" class="particle">
+    <animateMotion dur="9s" begin="4.5s" repeatCount="indefinite" path="M1090 422 C1045 488 1006 484 966 481"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.86;1" dur="9s" begin="4.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
