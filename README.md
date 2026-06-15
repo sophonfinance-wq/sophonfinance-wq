@@ -1,4 +1,4 @@
-# Hi, I'm Sophon 👋
+# Hi, I'm Sophon Narith 👋
 
 **Technical accountant who automates the work most people still do by hand** — and built a
 multi-AI quality-control framework to make AI-assisted financial work reliable enough to stake a
@@ -37,4 +37,4 @@ Traceability, repeatability, controls — accounting that's fast *and* auditable
 a controls environment, not a magic box.
 
 ### 📫 Reach me
-📧 sophonfinance@gmail.com · 🔗 LinkedIn *(coming soon)*
+📧 sophonfinance@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/sophonnarith)
