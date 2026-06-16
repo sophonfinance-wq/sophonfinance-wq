@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Automation-Builder-1E64C8?style=for-the-badge" alt="AI Automation Builder">
-  <img src="https://img.shields.io/badge/Finance%20Systems-Data%20Driven-1557B0?style=for-the-badge" alt="Finance Systems">
+  <img src="https://img.shields.io/badge/AI%20Finance-Engineer-1E64C8?style=for-the-badge" alt="AI Finance Engineer">
+  <img src="https://img.shields.io/badge/Founder-Sophon%20Finance%20Systems-1557B0?style=for-the-badge" alt="Founder, Sophon Finance Systems">
   <img src="https://img.shields.io/badge/Python-Production%20Workflows-0B1F3A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Controls-Human%20Gated-475569?style=for-the-badge" alt="Human gated controls">
 </p>
@@ -13,12 +13,12 @@
   <tr>
     <td width="32%" valign="top">
       <p align="center">
-        <img src="./assets/selected-profile-photo-clean.png" alt="Sophon Finance profile photo" width="210">
+        <img src="./assets/selected-profile-photo-clean.png" alt="Sophonnarith Hang profile photo" width="210">
       </p>
-      <h2>Sophon Finance</h2>
+      <h2>Sophonnarith Hang</h2>
       <p><strong>sophonfinance-wq</strong></p>
-      <p><strong>AI Automation - Data - Finance</strong></p>
-      <p>Building intelligent systems that transform financial workflows.</p>
+      <p><strong>AI Finance Engineer · Founder, Sophon Finance Systems</strong></p>
+      <p>AI-driven finance &amp; accounting automation — built to be auditable.</p>
       <p>
         <a href="mailto:sophonfinance@gmail.com">sophonfinance@gmail.com</a><br>
         <a href="https://www.linkedin.com/in/sophonnarith">linkedin.com/in/sophonnarith</a>
@@ -41,11 +41,13 @@
       </p>
     </td>
     <td width="68%" valign="top">
-      <h2>Hi, I'm Sophon :wave:</h2>
+      <h2>Hi, I'm Sophonnarith :wave:</h2>
       <p>
-        I build automation tools and intelligent systems that solve real-world finance problems.
-        My work combines finance operations, Python systems, AI-assisted document review,
-        deterministic validation, and executive-ready reporting.
+        I'm an AI Finance Engineer / AI Engineering Accountant and the founder of Sophon Finance
+        Systems — the rare hybrid who pairs 18+ years of accounting and tax judgment with the
+        engineering to ship production AI into finance, then make it auditable. My work combines
+        finance operations, Python systems, multi-agent LLM review, deterministic validation,
+        and executive-ready reporting.
       </p>
       <ul>
         <li>Automating financial reporting and consolidation</li>
@@ -72,7 +74,7 @@
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [SFS Financial Automation System](https://github.com/sophonfinance-wq/finance-automation-portfolio) | Six runnable finance automation systems with tests, evidence, validation, and executive reporting | Python, Excel, CI, AI workflows |
+| [Sophon Finance Systems](https://github.com/sophonfinance-wq/finance-automation-portfolio) | Six runnable finance automation systems with tests, evidence, validation, and executive reporting | Python, Excel, CI, AI workflows |
 | [Month-End Close Engine](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/monthly-close-automation) | Recurring journal entries, tie-outs, refusal controls, and close evidence | Python, pytest, JSON |
 | [Cash & Debt Reconciliation](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/cash-reconciliation) | GL-to-bank/lender matching with materiality classification and exception reporting | Python, pandas-style logic |
 | [Tax Surplus / ACB Model](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/tax-surplus-engine) | Traceable surplus pools, ACB ledger behavior, and distribution waterfall logic | Python, workpapers |
