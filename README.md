@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Finance-Engineer-1E64C8?style=for-the-badge" alt="AI Finance Engineer">
+  <img src="https://img.shields.io/badge/AI%20Tax%20Automation-Engineer-1E64C8?style=for-the-badge" alt="AI Finance Engineer">
   <img src="https://img.shields.io/badge/Founder-Sophon%20Finance%20Systems-1557B0?style=for-the-badge" alt="Founder, Sophon Finance Systems">
   <img src="https://img.shields.io/badge/Python-Production%20Workflows-0B1F3A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Controls-Human%20Gated-475569?style=for-the-badge" alt="Human gated controls">
@@ -17,7 +17,7 @@
       </p>
       <h2>Sophonnarith Hang</h2>
       <p><strong>sophonfinance-wq</strong></p>
-      <p><strong>AI Finance Engineer · Founder, Sophon Finance Systems</strong></p>
+      <p><strong>Tax Technology & AI Automation · Founder, Sophon Finance Systems</strong></p>
       <p>AI-driven finance &amp; accounting automation — built to be auditable.</p>
       <p>
         <a href="mailto:sophonfinance@gmail.com">sophonfinance@gmail.com</a><br>
@@ -43,9 +43,9 @@
     <td width="68%" valign="top">
       <h2>Hi, I'm Sophonnarith :wave:</h2>
       <p>
-        I'm an AI Finance Engineer / AI Engineering Accountant and the founder of Sophon Finance
+        I'm an AI Tax Automation Engineer / Tax Technology builder and the founder of Sophon Finance
         Systems — the rare hybrid who pairs 18+ years of accounting and tax judgment with the
-        engineering to ship production AI into finance, then make it auditable. My work combines
+        engineering to ship tested, auditable tax and finance AI. My work combines
         finance operations, Python systems, multi-agent LLM review, deterministic validation,
         and executive-ready reporting.
       </p>
