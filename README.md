@@ -20,6 +20,7 @@
       <p><strong>Tax Technology & AI Automation · Big 4 Tax Background · Founder, Sophon Finance Systems</strong></p>
       <p>Tax, finance, and accounting automation — built for reviewability, evidence, and control.</p>
       <p>
+        <a href="https://sophonfinance.com"><strong>sophonfinance.com</strong></a><br>
         <a href="mailto:sophonfinance@gmail.com">sophonfinance@gmail.com</a><br>
         <a href="https://www.linkedin.com/in/sophonnarith">linkedin.com/in/sophonnarith</a>
       </p>
@@ -73,12 +74,29 @@
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [Sophon Finance Systems](https://github.com/sophonfinance-wq/finance-automation-portfolio) | Eight runnable finance/tax automation systems with tests, evidence, validation, and reviewer-ready reporting | Python, Excel, CI, AI controls |
+| [sophonfinance.com](https://sophonfinance.com) | The company site — every engine explained with animated, labeled process diagrams; all displayed figures verified against this portfolio | Static site, GitHub Pages |
+| [Sophon Finance Systems](https://github.com/sophonfinance-wq/finance-automation-portfolio) | Eight runnable finance/tax automation systems, 14,740 automated tests, with evidence, validation, and reviewer-ready reporting | Python, Excel, CI, AI controls |
 | [Month-End Close Engine](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/monthly-close-automation) | Recurring journal entries, tie-outs, refusal controls, and close evidence | Python, pytest, JSON |
 | [Cash & Debt Reconciliation](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/cash-reconciliation) | GL-to-bank/lender matching with materiality classification and exception reporting | Python, pandas-style logic |
 | [Tax Surplus / ACB Model](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/tax-surplus-engine) | Traceable surplus pools, ACB ledger behavior, and distribution waterfall logic | Python, workpapers |
 | [Partnership 1065 Automation](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/partnership-1065-automation) | Source intake, book-to-tax bridge, 1065 mapping, K-1 preview, and review checks | Python, tax workpapers |
 | [Triangulate AI Validation](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/ai-validation-framework) | AI separation of duties: preparer, reviewer, specialist, deterministic audit, human gate | Python, AI controls |
+
+## How the Engines Work
+
+<p align="center">
+  <a href="https://sophonfinance.com">
+    <img src="./assets/site-hero-labeled.webp" alt="Labeled pipeline: your documents flow into the finance engine, pass an independent check, and land as a verified stack that a human approves" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://sophonfinance.com">
+    <img src="./assets/diagram-month-end-close.webp" alt="Month-end close diagram: GL export, bank statements, and the prior close feed the close engine inside a ring of ten controls; an out-of-tie entry is refused and will not post; checked journal entries, close checklist, and close package come out" width="100%">
+  </a>
+</p>
+
+<p align="center"><em>Every engine on <a href="https://sophonfinance.com">sophonfinance.com</a> has a labeled diagram like these — animated on the live site.</em></p>
 
 ## Tax-Tech Operating Model
 
@@ -110,6 +128,8 @@ Public demos use synthetic data and enterprise-safe patterns: Python, Excel-comp
 
 
 <p align="center">
+  <a href="https://sophonfinance.com"><strong>Visit sophonfinance.com</strong></a>
+  &nbsp;|&nbsp;
   <a href="https://github.com/sophonfinance-wq/finance-automation-portfolio"><strong>View the full portfolio</strong></a>
   &nbsp;|&nbsp;
   <a href="mailto:sophonfinance@gmail.com"><strong>Start a conversation</strong></a>
