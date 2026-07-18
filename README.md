@@ -75,7 +75,7 @@
 | Project | What it demonstrates | Stack |
 |---|---|---|
 | [sophonfinance.com](https://sophonfinance.com) | The company site — every engine explained with animated, labeled process diagrams; all displayed figures verified against this portfolio | Static site, GitHub Pages |
-| [Sophon Finance Systems](https://github.com/sophonfinance-wq/finance-automation-portfolio) | Eight runnable finance/tax automation systems, 14,740 automated tests, with evidence, validation, and reviewer-ready reporting | Python, Excel, CI, AI controls |
+| [Sophon Finance Systems](https://github.com/sophonfinance-wq/finance-automation-portfolio) | Eight runnable finance/tax automation systems, 60,374 automated tests, with evidence, validation, and reviewer-ready reporting | Python, Excel, CI, AI controls |
 | [Month-End Close Engine](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/monthly-close-automation) | Recurring journal entries, tie-outs, refusal controls, and close evidence | Python, pytest, JSON |
 | [Cash & Debt Reconciliation](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/cash-reconciliation) | GL-to-bank/lender matching with materiality classification and exception reporting | Python, pandas-style logic |
 | [Tax Surplus / ACB Model](https://github.com/sophonfinance-wq/finance-automation-portfolio/tree/main/tax-surplus-engine) | Traceable surplus pools, ACB ledger behavior, and distribution waterfall logic | Python, workpapers |
